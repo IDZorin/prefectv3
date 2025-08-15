@@ -1,0 +1,4 @@
+
+mode=delete_create
+count=3
+source_dir=index
